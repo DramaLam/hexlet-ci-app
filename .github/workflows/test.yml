@@ -1,4 +1,4 @@
-name: show-directory
+name: test prodject
 on: push
 jobs:
   build:
